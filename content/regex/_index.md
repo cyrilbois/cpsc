@@ -26,6 +26,7 @@ Regexes can even [take down part of the internet](https://blog.cloudflare.com/de
 ### Resources
 
 - [https://regexr.com/](https://regexr.com/) is a great tool to check and play around with regex.
+- [https://pythonium.net/regex](https://pythonium.net/regex) is another play tool that integrates a regex visualizer.
 - [https://regexcrossword.com/](https://regexcrossword.com/) is a fun way to gradually learn more and more complex regexes
 - [https://regexone.com/](https://regexone.com/) is an interactive guide through regular expressions
 - [https://www.regular-expressions.info/](https://www.regular-expressions.info/) is the go-to resource for an in-depth understanding of regex
